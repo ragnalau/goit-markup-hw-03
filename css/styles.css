@@ -373,8 +373,12 @@ a {
 
 .hero-section__portofolio .container ul {
   display: flex;
-  flex-direction: row-reverse;
+  flex-direction: row;
   justify-content: center;
+}
+
+.hero-section__portofolio .container ul li{
+  margin-right: 30px;
 }
 
 .column-container {
