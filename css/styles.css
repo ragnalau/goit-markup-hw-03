@@ -395,6 +395,11 @@ a {
   border: 1px solid #EEEEEE
 }
 
+.portofolio img {
+  max-width: 100%;
+  height: auto;
+}
+
 .container {
   width: 1200px;
   margin-right: auto;
