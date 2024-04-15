@@ -65,7 +65,6 @@ a {
 
 .header__navigation ul {
   display: flex;
-  justify-content: flex-start;
   gap: 40px;
 }
 
@@ -200,8 +199,9 @@ a {
 }
 
 .apps__image {
-  height: 294px;
+  /* height: 294px; */
   width: 370px;
+  height: auto;
 }
 
 .apps__title {
@@ -226,7 +226,8 @@ a {
 
 .team__image {
   width: 260px;
-  height: 270px;
+  /* height: 270px; */
+  height: auto;
 }
 
 .team__card {
